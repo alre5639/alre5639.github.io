@@ -1,5 +1,5 @@
 # About me
-My name is Alec Reed, I am currently a second year research assistant in the Automated Robtoics and Percetions Group (ARPG) at the University of Colorado Boulder. My advisor is Christoffer Heckman and I work primarily in verified controls and autonomy
+My name is Alec Reed, I am currently a second year research assistant in the Autonomous Robtoics and Percetions Group (ARPG) at the University of Colorado Boulder. My advisor is Christoffer Heckman and I work primarily in verified controls and autonomy
 
 ## Background and Areas of Interest
 The focus of my research at CU is verified autonomy and controls. I synthesize Control Lyapunov Functions and Control Barrier Functions to generate a library of manuevers and then piece together the manuevers to generate executable paths or trajectories to follow. 
