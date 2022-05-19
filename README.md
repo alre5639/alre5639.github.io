@@ -14,7 +14,6 @@ I do not currently have any publications.
 I worked at Boeing as a Network Design Engineer for 4 years before returning to school to pursue my PhD. I specialized in CANBUS, Ethernet and ARINC 429 design and troubleshooting. I was a Boeing designated expert in CANBUS and lead the CANBUS Interprise Produce Team.
 
 M.S. Electrical Engineering, 2019, University of Washington
-
 B.S. Electrical Engineering, 2017, Gonzaga University
 
 ## Other
