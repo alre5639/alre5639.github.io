@@ -9,7 +9,7 @@ I work with a variety of vehicle dynmaics models, SLAM algorithms, Deep Learning
 ## Publications
 We are in the submission process for my recent work! The work builds on recent CLF generation and control extraton methods such as:
 
-* Ravanbakhsh et al.  "Path-Following through Control Funnel Functions", https://arxiv.org/pdf/1804.05288.pdf
+* Ravanbakhsh et al.  "Path-Following through Control Funnel Functions", <a href="https://arxiv.org/pdf/1804.05288.pdf"> Link </a> 
 * Chang et al. "Neural Lyapunov Control", https://arxiv.org/abs/2005.00611
 * Majumdar et al. "Funnel Libraries for Real-Time Robust Feedback Motion Planning", https://arxiv.org/abs/1601.04037
 
