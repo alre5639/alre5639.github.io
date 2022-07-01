@@ -7,7 +7,11 @@ At a high level my research consists of generation of Control Lyapunov Functions
 I work with a variety of vehicle dynmaics models, SLAM algorithms, Deep Learning Models, sensor data, and hardware to generate and test these functions. I am interested in developing usable verified control models and integrating them into existng systems to provide superior performance and safety guarantees over existing models.
 
 ## Publications
-I do not currently have any publications.
+We are in the submission process for my recent work! The work builds on recent CLF generation and control extraton methods such as:
+
+* Ravanbakhsh et al.  "Path-Following through Control Funnel Functions", https://arxiv.org/pdf/1804.05288.pdf
+* Chang et al. "Neural Lyapunov Control", https://arxiv.org/abs/2005.00611
+* Majumdar et al. "Funnel Libraries for Real-Time Robust Feedback Motion Planning", https://arxiv.org/abs/1601.04037
 
 
 ## Experience 
