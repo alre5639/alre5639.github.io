@@ -11,7 +11,7 @@ Our paper "Verified Path Following Using Neural Control Lyapunov Functions" has 
 
 * Reed, A., Berger, G., Sankaranarayanan, S., Heckman, C. Verified Path Following Using Neural Control Lyapunov Functions.In preparation, CoRL2022.
 
-this work builds on recent CLF generation and control extraton methods such as:
+this work builds on recent CLF generation and control extraction methods such as:
 
 * Ravanbakhsh et al.  "Path-Following through Control Funnel Functions", <a href="https://arxiv.org/pdf/1804.05288.pdf"> Link </a> 
 * Chang et al. "Neural Lyapunov Control",<a href="https://arxiv.org/abs/2005.00611"> Link </a>  
