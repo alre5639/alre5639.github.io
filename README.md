@@ -9,7 +9,7 @@ I work with a variety of vehicle dynmaics models, SLAM algorithms, Deep Learning
 ## Publications
 Our paper "Verified Path Following Using Neural Control Lyapunov Functions" has been accepted to CoRL 2022! The camera ready version will be avaliable in November.
 
-* Reed, A., Berger, G., Sankaranarayanan, S., Heckman, C. Verified Path Following Using Neural Control Lyapunov Functions.In preparation, CoRL2022.
+* Reed, A., Berger, G., Sankaranarayanan, S., Heckman, C. Verified Path Following Using Neural Control Lyapunov Functions. In preparation, CoRL2022. <a href="https://openreview.net/forum?id=JErNvd_lKHr"> Link </a> 
 
 this work builds on recent CLF generation and control extraction methods such as:
 
