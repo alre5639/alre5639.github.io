@@ -1,8 +1,6 @@
 # About me
 I am currently a second year research assistant in the Autonomous Robtoics and Percetions Group (ARPG) at the CU Boulder in the Computer Science Department. My advisor is Christoffer Heckman and I work primarily in verified controls and autonomy.
 
-Resume: <a href="https://alre5639.github.io/Alec_resume_dec.pdf" target="_blank">PDF.</a>
-
 ## Background and Areas of Interest
 At a high level my research consists of generation of Control Lyapunov Functions and Control Barrier Functions to generate a library of manuevers, and then piecing together the manuevers to generate executable paths or trajectories for a vehicle to follow. 
 
