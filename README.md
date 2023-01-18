@@ -7,7 +7,8 @@ At a high level my research consists of generation of Control Lyapunov Functions
 I work with a variety of vehicle dynmaics models, SLAM algorithms, Deep Learning Models, sensor data, and hardware to generate and test these functions. I am interested in developing usable verified control models and integrating them into existng systems to provide superior performance and safety guarantees over existing models.
 
 ## Publications
-* Reed, A. (2023). Learning System Dynamics via Attention based methods. In preparation. 
+* Reed, A., Albin, D., Pasricha, A., Heckman, C,. (2023). an Examination of Attention Based Methods for Learning System
+Dynamics. In preparation. 
 
 * Reed, A., Berger, G. O., Sankaranarayanan, S., & Heckman, C. (2022). Verified Path Following Using Neural Control Lyapunov Functions. 6th Annual Conference on Robot Learning.  <a href="https://openreview.net/forum?id=JErNvd_lKHr"> Link </a> 
 
