@@ -1,22 +1,9 @@
 # About me
-I am currently a second year research assistant in the Autonomous Robtoics and Percetions Group (ARPG) at the CU Boulder in the Computer Science Department. My advisor is Christoffer Heckman and I work primarily in verified controls and autonomy.
+I am currently a PhD Student in the Autonomous Robtoics and Percetions Group (ARPG) advised by Christoffer Heckman at the CU Boulder in the Computer Science Department.
 
 ## Background and Areas of Interest
-At a high level my research consists of generation of Control Lyapunov Functions and Control Barrier Functions to generate a library of manuevers, and then piecing together the manuevers to generate executable paths or trajectories for a vehicle to follow. 
+My Area of of fous is generally autonomous robotic systems. More specficily my research focuses on cutting edge deep learning methods to solve problems of verified control, learned dynmaics and terrain prediction and generation. A full list of publications can found in my <a href="https://alre5639.github.io/Alec_CV_up.pdf" target="_blank">CV</a>
 
-I work with a variety of vehicle dynmaics models, SLAM algorithms, Deep Learning Models, sensor data, and hardware to generate and test these functions. I am interested in developing usable verified control models and integrating them into existng systems to provide superior performance and safety guarantees over existing models.
-
-## Publications
-* Reed, A., Albin, D., Pasricha, A., Heckman, C,. (2023). an Examination of Attention Based Methods for Learning System
-Dynamics. In preparation. 
-
-* Reed, A., Berger, G. O., Sankaranarayanan, S., & Heckman, C. (2022). Verified Path Following Using Neural Control Lyapunov Functions. 6th Annual Conference on Robot Learning.  <a href="https://openreview.net/forum?id=JErNvd_lKHr"> Link </a> 
-
-this work builds on recent CLF generation and control extraction methods such as:
-
-* Ravanbakhsh et al.  "Path-Following through Control Funnel Functions", <a href="https://arxiv.org/pdf/1804.05288.pdf"> Link </a> 
-* Chang et al. "Neural Lyapunov Control",<a href="https://arxiv.org/abs/2005.00611"> Link </a>  
-* Majumdar et al. "Funnel Libraries for Real-Time Robust Feedback Motion Planning", <a href="https://arxiv.org/abs/1601.04037"> Link </a>  
 
 
 ## Experience 
