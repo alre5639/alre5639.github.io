@@ -7,7 +7,7 @@ My Area of of fous is generally autonomous robotic systems. More specficily my r
 
 
 ## Experience 
-I worked at Boeing as a Network Design Engineer for 4 years before returning to school to pursue my PhD. I specialized in CANBUS, Ethernet and ARINC 429 design and troubleshooting. I was a Boeing designated expert in CANBUS and lead the CANBUS Interprise Produce Team.
+I worked at Boeing as a Network Design Engineer for 4 years before returning to school to pursue my PhD. At Boeing I specialized in CANBUS, Ethernet and ARINC 429 design and troubleshooting. I was a Boeing designated expert in CANBUS and lead the CANBUS enterprise product team.
 
 Ph.D Computer Science, 2025 *(anticipated)*, University of Colorado, Boulder
 
