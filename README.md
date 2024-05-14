@@ -2,7 +2,7 @@
 I am currently a PhD Student in the Autonomous Robtoics and Percetions Group (ARPG) advised by Christoffer Heckman at the CU Boulder in the Computer Science Department.
 
 ## Background and Areas of Interest
-My Area of of fous is generally autonomous robotic systems. More specficily my research focuses on cutting edge deep learning methods to solve problems of verified control, learned dynmaics and terrain prediction and generation. A full list of publications can found in my <a href="https://alre5639.github.io/Alec_CV_up.pdf" target="_blank">CV</a>
+My Area of of fous is generally autonomous robotic systems. More specficily my research focuses on cutting edge deep learning methods to solve problems of verified control, learned dynmaics and terrain prediction and generation. A full list of publications can found in my <a href="https://alre5639.github.io/Alec_CV.pdf" target="_blank">CV</a>
 
 
 
